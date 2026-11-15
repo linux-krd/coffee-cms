@@ -23,3 +23,9 @@
 - دوگمەکانی هاوبەشپێکردن، کۆدی QR و دۆخی شەو/ڕۆژ لە سەرەوەی مینیو (هەڵبژاردنی بەکارهێنەر لە وێبگەڕدا پاشەکەوت دەکرێت)
 - بەشی «کۆدی QR ی مینیو» لە پانێڵدا: دیاریکردنی ناونیشان، دەقی ژێر QR، پیشاندان/شاردنەوەی دوگمە، داگرتنی PNG و چاپکردن
 - شێوازەکانی پارەدان: کارتخوێن، نەقد، کارت بۆ کارت، ئۆنلاین و قەرز (لەگەڵ تۆمارکردنی ناوی قەرزدار)
+
+![](https://github.com/linux-krd/coffee-cms/blob/main/linux-krd02.png)
+
+![](https://github.com/linux-krd/coffee-cms/blob/main/linux-krd03.png)
+
+![](https://github.com/linux-krd/coffee-cms/blob/main/linux-krd01.png)
